@@ -5,3 +5,4 @@ vicChart.py
 yachtCharter.py
 makeChart.py
 makeChartUnknown.py
+__pycache__/
