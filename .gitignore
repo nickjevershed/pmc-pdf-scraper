@@ -1,0 +1,7 @@
+.DS_Store
+pdfs/
+scraperwiki.sqlite
+vicChart.py
+yachtCharter.py
+makeChart.py
+makeChartUnknown.py
